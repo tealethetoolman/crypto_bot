@@ -1,2 +1,2 @@
 # crypto_bot
-Cryptocurrency bot trader.
+Cryptocurrency trader bot.
